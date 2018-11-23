@@ -1,0 +1,19 @@
+@media( max-width: 991px)
+      
+     { .input-text{margin-bottom: 20px;
+     	margin-right: 74px;}
+     .input-text2{    margin-left:  79px;}
+     
+
+   
+    
+}
+
+@media (max-width:991px;)
+    {.banner-content h1{    font-size: 30px;
+    margin-top: 79px;
+    margin-bottom: 0px;}
+
+    .about-us-content{text-align: center;}
+}
+
